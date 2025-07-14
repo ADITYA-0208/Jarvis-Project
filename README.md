@@ -104,12 +104,12 @@ Jarvis-Project/
 🔗 [GitHub](https://github.com/ADITYA-0208)
 
 ### 🧾 Home Page
-![Login](assets/Jarvis3.png)
+![Login](assets/jarvis3.png)
 
 ![Login1](assets/Jarvis2.png)
 
 ### 🧾 ChatApp
-![Login2](assets/jarvis1.png)
+![Login2](assets/Jarvis1.png)
 
 
 
