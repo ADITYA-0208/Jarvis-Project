@@ -106,10 +106,10 @@ Jarvis-Project/
 ### 🧾 Home Page
 ![Login](assets/Jarvis3.png)
 
-![Login](assets/Jarvis2.png)
+![Login1](assets/Jarvis2.png)
 
 ### 🧾 ChatApp
-![Login](assets/jarvis1.png)
+![Login2](assets/jarvis1.png)
 
 
 
